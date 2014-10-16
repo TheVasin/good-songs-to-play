@@ -1,4 +1,5 @@
-###Beatles - She loves you
+Beatles - She loves you
+-----------------------
 
 Intro:
 
