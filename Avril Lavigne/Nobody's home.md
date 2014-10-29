@@ -9,7 +9,7 @@ Verse 1:
 	I couldn't tell you why she felt that way,
 	C
 	She felt it everyday.
-	E D 
+	Em D 
 	And I couldn't help her,
 	C   
 	I just watched her make the same mistakes again.
