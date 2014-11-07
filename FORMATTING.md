@@ -1,4 +1,5 @@
-= Formatting guide
+Formatting guide
+================
 
 All songs should be located in folders with name of the artist. Filename should represent name of the song.
 Songs should be provided in ASCIIDOC .ad format.
