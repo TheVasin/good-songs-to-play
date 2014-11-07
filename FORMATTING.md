@@ -1,9 +1,8 @@
-Formatting guide
-================
+= Formatting guide
 
 All songs should be located in folders with name of the artist. Filename should represent name of the song.
-Songs should be provided in .md format.
-Use http://daringfireball.net/projects/markdown/basics for reference.
+Songs should be provided in ASCIIDOC .ad format.
+Use http://www.methods.co.nz/asciidoc/ for reference.
 
 Song starts with srtist title and song name separated by '-'. This line should be first line of the file and formatted as a second level header(underlined by '-----').
 
