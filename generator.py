@@ -6,7 +6,8 @@ filelist = []
 print """= Good Songs to Play
 Alexander Vasin <alexander.v.vasin@gmail.com>"""
 print time.strftime("%d/%m/%Y")
-print """:toc:
+print """:doctype: book
+:toc:
 """
 
 for roots, dirs,files in os.walk('.'):
