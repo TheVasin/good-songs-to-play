@@ -47,9 +47,10 @@
 }
 #toc a{
     text-decoration: none;
+    color: #0099FF;
 }
 #toc a:visited{
-    color: 0099FF;
+    color: #0099FF;
 }
 
 #toc a:hover{
