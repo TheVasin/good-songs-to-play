@@ -5,4 +5,4 @@ git checkout master
 ./publish.sh
 git checkout gh-pages
 git add index.html
-git commit "index.html added by script"
+git commit index.html -m "index.html added by script"
