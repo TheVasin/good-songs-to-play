@@ -1,0 +1,63 @@
+#header .details br{
+    display: none;
+}
+#header .details br+span:before{
+    content: "\00a0\2013\00a0";
+}
+#header .details{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+#header .details{
+    color: #aaaaaa;
+    font-size: 0.8em;
+}
+#header .details a{
+    color: #aaaaaa;
+}
+#header h1{
+    margin-bottom: 1px;
+}
+#toc{
+    page-break-before: always;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#toctitle{
+    font-size: 1.5em;
+}
+#toc ul{
+    list-style-type: none;
+}
+#content h2{
+    page-break-before: always;
+}
+#content .sectionbody{
+    margin-left: 10px;
+}
+#content .literalblock{
+    margin-left: 20px;
+}
+#footer{
+    color: #cccccc;
+    font-size: 0.6em;
+}
+#toc a{
+    text-decoration: none;
+}
+#toc a:visited{
+    color: 0099FF;
+}
+
+#toc a:hover{
+    text-decoration: underline;
+}
+html{
+    color: #383838;
+}
+#content .content{
+    color: #000000;
+}
