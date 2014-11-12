@@ -39,7 +39,7 @@
     margin-left: 10px;
 }
 #content .literalblock{
-    margin-left: 20px;
+    margin-left: 40px;
 }
 #footer{
     color: #cccccc;
@@ -58,7 +58,17 @@
 }
 html{
     color: #383838;
+    font-family: sans-serif;
 }
 #content .content{
     color: #000000;
+}
+.sectionbody{
+    font-family: monospace;
+}
+.paragraph{
+    color: #B00000;
+}
+em{
+    color: #cccccc;
 }
