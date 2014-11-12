@@ -1,6 +1,3 @@
-#header .details br{
-    display: none;
-}
 #header .details br+span:before{
     content: "\00a0\2013\00a0";
 }
@@ -70,5 +67,5 @@ html{
     color: #B00000;
 }
 em{
-    color: #bbbbbb;
+    color: #888888;
 }
