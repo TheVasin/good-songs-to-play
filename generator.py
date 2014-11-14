@@ -2,6 +2,7 @@
 import os, sys, time
 
 filelist = []
+folder = "Songs"
 
 print """= Good Songs to Play
 Alexander Vasin <alexander.v.vasin@gmail.com>"""
@@ -10,10 +11,10 @@ print """:doctype: book
 :toc:
 """
 
-for roots, dirs,files in os.walk('.'):
+for roots, dirs,files in os.walk(folder):
     for afile in files:
         filepath = os.path.join(roots, afile)
-        if filepath.find('.ad') > 0 and roots <> '.':
+        if filepath.find('.ad') > 0: 
             filelist.append(filepath)
 
 filelist.sort()    
