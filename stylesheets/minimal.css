@@ -5,16 +5,22 @@
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
+    -ms-flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
 }
 #header .details{
     color: #aaaaaa;
-    font-size: 0.8em;
+    font-size: 0.75em;
 }
 #header .details a{
     color: #aaaaaa;
 }
 #header h1{
     margin-bottom: 1px;
+    padding: 5px;
+    color: #FFFFFF;
+    background-color: #88aaff;
 }
 #toc{
     page-break-before: always;
@@ -44,10 +50,10 @@
 }
 #toc a{
     text-decoration: none;
-    color: #0099FF;
+    color: #3377aa;
 }
 #toc a:visited{
-    color: #0099FF;
+    color: #3377aa;
 }
 
 #toc a:hover{
