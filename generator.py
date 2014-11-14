@@ -5,7 +5,7 @@ filelist = []
 
 print """= Good Songs to Play
 Alexander Vasin <alexander.v.vasin@gmail.com>"""
-print time.strftime("%B %d, %Y")
+print time.strftime(":revdate: %B %d, %Y")
 print """:doctype: book
 :toc:
 """
