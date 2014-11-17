@@ -9,6 +9,7 @@ Alexander Vasin <alexander.v.vasin@gmail.com>"""
 print time.strftime(":revdate: %B %d, %Y")
 print """:doctype: book
 :toc:
+:sectanchors:
 """
 
 for roots, dirs,files in os.walk(folder):
