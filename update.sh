@@ -3,7 +3,7 @@ git checkout gh-pages
 git rm index.html
 git commit -m "index.html removed by script"
 git checkout master
-./publish.sh
+./publish_with_docker.sh
 git commit -a -m "Updated by script"
 git checkout gh-pages
 git add index.html
