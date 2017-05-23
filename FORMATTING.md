@@ -11,7 +11,7 @@ Each part of the song should be separated from other text by empty line. Name of
 
 Lyrics with chords indented by tabulation. Chords should be separated only by one space symbol - no more.
 
-Use tab width 8 and unix line endings.
+Use tab width 4 and unix line endings.
 
 I use 'generator.py' to generate ASCIIDOC containing content of all '.ad' files from subfolder.
 
