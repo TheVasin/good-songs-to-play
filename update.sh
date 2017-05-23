@@ -1,4 +1,5 @@
 #!/bin/sh
+git pull
 git checkout gh-pages
 git rm index.html
 git commit -m "index.html removed by script"
