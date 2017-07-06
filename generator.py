@@ -10,6 +10,7 @@ print time.strftime(":revdate: %B %d, %Y")
 print """:doctype: book
 :toc:
 :sectanchors:
+:pdf-page-size: A4
 """
 
 for roots, dirs,files in os.walk(folder):
