@@ -235,6 +235,7 @@ Verse 4:
     But you see
 
 Outro:
+
     G Em7 Am D
     The winner takes it all
     The winner takes it all
@@ -3291,21 +3292,21 @@ Verse 1:
 
 Chorus:
 
-    Bm F#m
-    If you slip and slide 
-    E
-    Trip or fall
-    D
-    You're not the only one
     Bm
-    We should never play with guns
+    If you slip and slide 
     F#m
-    Don't slip and slide
+    Trip or fall
     E
-    Trip or fall 
+    You're not the only one
     D
+    We should never play with guns
+    Bm
+    Don't slip and slide
+    F#m
+    Trip or fall 
+    E
     You knew when this begun
-    Bm Bm F#m E D
+    D Bm F#m E D
     We should never play with guns
 
 Verse 2:
@@ -3325,23 +3326,23 @@ Verse 2:
 
 Chorus:
 
-    Bm F#m
-    If you slip and slide 
-    E
-    Trip or fall
-    D
-    You're not the only one
     Bm
-    We should never play with guns
+    If you slip and slide 
     F#m
-    Don't slip and slide
+    Trip or fall
     E
-    Trip or fall 
+    You're not the only one
     D
-    You knew when this begun
-    Bm F#m E D
     We should never play with guns
-    Bm F#m E D
+    Bm
+    Don't slip and slide
+    F#m
+    Trip or fall 
+    E
+    You knew when this begun
+    D Bm F#m E D
+    We should never play with guns
+    D Bm F#m E D
     We should never play with guns
 
 == Seafret - To the sea
@@ -4232,9 +4233,13 @@ Verse 1:
 
 Verse 2:
 
+    Em C+7/E D Em
     "Усталость, ненависть и боль, безумья темный страх...
+    Em C+7/E D Em
     Ты держишь целый ад земной как небо, на плечах!
+    Em C+7/E D Em
     Любой из вас безумен - в любви и на войне,
+    Em C+7/E Am Bm Em 
     Но жизнь - не звук, чтоб обрывать...", - она сказала мне
 
 Chorus:
@@ -4250,31 +4255,47 @@ Chorus:
 
 Verse 3:
 
+    Em C+7/E D Em
     "Пока ты жив, не умирай, на этот мир взгляни -
+    Em C+7/E D Em
     У многих здесь душа мертва, они мертвы внутри!
+    Em C+7/E D Em
     Но ходят и смеются, не зная, что их нет...
+    Em C+7/E Am Bm Em
     Не торопи свой смертный час", - она сказала мне
 
 Chorus:
 
+    C D Em C
     Там, высоко - нет никого
+    F B Em
     Там также одиноко, как и здесь
+    C D Em C
     Там, высоко - бег облаков
+    F B Em
     К погасшей много лет назад звезде
 
 Verse 4:
 
+    Em C+7/E D Em
     "Сбежать от жизни можно, от смерти - никогда.
+    Em C+7/E D Em
     Сама жизнь крылья сложит и я вернусь сюда..."
+    Em C+7/E D Em
     Не ведьма, не колдунья явилась в дом ко мне,
+    Em C+7/E Am Bm Em
     А летним днем испить воды зашла случайно смерть
 
 Chorus:
 
+    C D Em C
     Там, высоко - нет никого
+    F B Em
     Там также одиноко, как и здесь
+    C D Em C
     Там, высоко - бег облаков
-    К погасшей много лет назад звезде    
+    F B Em
+    К погасшей много лет назад звезде
 
 == Ария - Что вы сделали с вашей мечтой
 
@@ -7706,15 +7727,15 @@ Verse 1:
 
     Bm E Em
     Утекай, в подворотне нас ждет маньяк,
-    Bm
+    Em Bm
     Хочет нас посадить на крючок.
     E Em
     Красавицы уже лишились своих чар,
-    Bm
+    Em Bm
     Машины в парк, и все гангстеры спят.
     E Em Bm
     Остались только мы на растерзание-е,
-    E Em Bm
+    E Em
     Парочка простых и молодых ребят.
 
 Chorus:
@@ -7730,11 +7751,11 @@ Verse 2:
 
     Bm E Em
     Утекай, он порежет меня на меха,
-    Bm
+    Em Bm
     И граница потеряет контроль.
     E Em
     Руку ниже бедра, он как столб
-    Bm
+    Em Bm
     Смотрит в щелочку штор на отряд.
     E Em Bm
     Остались только мы на растерзание-е,
@@ -8017,43 +8038,55 @@ _Capo II_
 Verse 1:
 
     Am F
-    Там, где клён шумит над речной волной, 
+    Там, где клён шумит над речной волной,
     Am F
-    Говорили мы о любви с тобой, 
+    Говорили мы о любви с тобой,
     Dm G C
-    Опустел тот клён, в поле бродит мгла, 
+    Опустел тот клён, в поле бродит мгла,
     Dm Am E7 Am
-    А любовь, как сон, стороной прошла. 
-    
+    А любовь, как сон, стороной прошла.
+
 Chorus:
 
-    D G C
-    А любовь, как сон, а любовь, как сон, 
+    Am D G C
+    А любовь, как сон, а любовь, как сон,
     Am B7 F E7 Am
-    А любовь, как сон, стороной прошла. 
+    А любовь, как сон, стороной прошла.
 
 Verse 2:
 
-    Сердцу очень жаль, что случилось так, 
-    Гонит осень вдаль журавлей косяк. 
-    Четырём ветрам грусть-печаль раздам, 
-    Не вернётся вновь это лето к нам. 
+    Am F
+    Сердцу очень жаль, что случилось так,
+    Am F
+    Гонит осень вдаль журавлей косяк.
+    Dm G C
+    Четырём ветрам грусть-печаль раздам,
+    Dm Am E7 Am
+    Не вернётся вновь это лето к нам.
 
 Chorus:
 
-    Не вернётся вновь, не вернётся вновь, 
-    Не вернётся вновь это лето к нам. 
+    Am D G C
+    Не вернётся вновь, не вернётся вновь,
+    Am B7 F E7 Am
+    Не вернётся вновь это лето к нам.
 
 Verse 3:
 
-    Ни к чему теперь за тобой ходить, 
-    Ни к чему теперь мне цветы дарить, 
-    Ты любви моей не смогла сберечь, 
+    Am F
+    Ни к чему теперь за тобой ходить,
+    Am F
+    Ни к чему теперь мне цветы дарить,
+    Dm G C
+    Ты любви моей не смогла сберечь,
+    Dm Am E7 Am
     Поросло травой место наших встреч.
     
 Chorus:
 
-    Поросло травой, поросло травой, 
+    Am D G C
+    Поросло травой, поросло травой,
+    Am B7 F E7 Am
     Поросло травой место наших встреч.
 
 
