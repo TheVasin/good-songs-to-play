@@ -8,13 +8,13 @@ Alexander Vasin <alexander.v.vasin@gmail.com>
 
 :songsdir: ./Songs
 
-include::{songsdir}/The Beatles/All my loving.ad[]
+include::Songs/The Beatles/All my loving.ad[]
 
-include::{songsdir}/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
+include::Songs/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
 
-include::{songsdir}/Avril Lavigne/My happy ending.ad[]
+include::Songs/Avril Lavigne/My happy ending.ad[]
 
-include::{songsdir}/Foo fighters/Best of you.ad[]
+include::Songs/Foo fighters/Best of you.ad[]
 
 == Кино - Звезды останутся здесь
 
