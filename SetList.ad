@@ -6,15 +6,15 @@ Alexander Vasin <alexander.v.vasin@gmail.com>
 :sectanchors:
 :pdf-page-size: A4
 
-:songsdir: ./Songs
+:songsdir: Songs
 
-include::Songs/The Beatles/All my loving.ad[]
+include::{songsdir}/The Beatles/All my loving.ad[]
 
-include::Songs/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
+include::{songsdir}/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
 
-include::Songs/Avril Lavigne/My happy ending.ad[]
+include::{songsdir}/Avril Lavigne/My happy ending.ad[]
 
-include::Songs/Foo fighters/Best of you.ad[]
+include::{songsdir}/Foo fighters/Best of you.ad[]
 
 == Кино - Звезды останутся здесь
 
