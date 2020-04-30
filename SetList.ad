@@ -1,4 +1,4 @@
-= My set list
+= Set list #2
 Alexander Vasin <alexander.v.vasin@gmail.com>
 :revdate: April 18, 2020
 :doctype: book
@@ -6,50 +6,52 @@ Alexander Vasin <alexander.v.vasin@gmail.com>
 :sectanchors:
 :pdf-page-size: A4
 
-include::Songs/The Beatles/All my loving.ad[]
+include::Songs/Машина Времени/Скворец.ad[]
 
-include::Songs/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
+include::Songs/Coldplay/Viva la vida.ad[]
 
 include::Songs/Avril Lavigne/My happy ending.ad[]
 
-include::Songs/Foo fighters/Best of you.ad[]
-
-include::Songs/Кино/Звезды останутся здесь.ad[]
-
-include::Songs/Мумий Тролль/Утекай.ad[]
-
 include::Songs/Van Halen/Can't stop loving you.ad[]
 
-include::Songs/Radiohead/Fake plastic trees.ad[]
+include::Songs/Aerosmith/I don't want to miss a thing.ad.ad[]
 
-include::Songs/Ария/Там высоко.ad[]
+include::Songs/Foo fighters/Best of you.ad[]
 
-include::Songs/Coldplay/The Scientist.ad[]
+include::Songs/Ленинград/Терминатор.ad[]
 
-include::Songs/ABBA/The winner takes it all.ad[]
+include::Songs/Skid Row/I remember you.ad[]
 
-include::Songs/30 Seconds To Mars/The Kill.ad[]
+include::Songs/Radiohead/High and dry.ad[]
 
-include::Songs/Машина Времени/Кошка, которая гуляет сама по себе.ad[]
+include::Songs/Avril Lavigne/Nobody's home.ad[]
 
-include::Songs/Tommy Stinson/Light of day.ad[]
+include::Songs/Guns n' Roses/Sweet child of mine.ad[]
 
-include::Songs/Avril Lavigne/Complicated.ad[]
+include::Songs/Motley Crue/Don't go away mad.ad[]
+
+include::Songs/Bruno Mars/Grenade.ad[]
+
+include::Songs/Ария/Искушение.ad[]
+
+include::Songs/Whitesnake/Don't fade away.ad[]
+
+include::Songs/David Bowie/Starman.ad[]
+
+include::Songs/Bruno Mars/Just the way you are.ad[]
 
 include::Songs/Guns n' Roses/Patience.ad[]
 
-include::Songs/Ария/Осколок льда.ad[]
+include::Songs/Земфира/Трафик.ad[]
 
-include::Songs/Ленинград/Терминатор.ad[]
+include::Songs/Кино/Город.ad[]
+
+include::Songs/Кино/Рядом со мной.ad[]
 
 include::Songs/Ария/Что вы сделали с вашей мечтой.ad[]
 
 include::Songs/Машина Времени/Дорога в небо.ad[]
 
-include::Songs/Кино/Мы хотим танцевать.ad[]
-
 include::Songs/The Calling/Wherever You Will Go.ad[]
-
-include::Songs/Синяя птица/Там где клен шумит.ad[]
 
 include::Songs/ДДТ/Это все.ad[]
