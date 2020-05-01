@@ -8,19 +8,19 @@ Alexander Vasin <alexander.v.vasin@gmail.com>
 
 include::Songs/Машина Времени/Скворец.ad[]
 
-include::Songs/Coldplay/Viva la vida.ad[]
+include::Songs/Кино/Звезды останутся здесь.ad[]
 
 include::Songs/Avril Lavigne/My happy ending.ad[]
 
-include::Songs/Van Halen/Can't stop loving you.ad[]
-
-include::Songs/Aerosmith/I don't want to miss a thing.ad.ad[]
-
 include::Songs/Foo fighters/Best of you.ad[]
+
+include::Songs/Creedence Clearwater Revival/Have you ever seen the rain.ad[]
 
 include::Songs/Ленинград/Терминатор.ad[]
 
-include::Songs/Skid Row/I remember you.ad[]
+include::Songs/Мумий Тролль/Утекай.ad[]
+
+include::Songs/Aerosmith/I don't want to miss a thing.ad.ad[]
 
 include::Songs/Radiohead/High and dry.ad[]
 
@@ -28,13 +28,15 @@ include::Songs/Avril Lavigne/Nobody's home.ad[]
 
 include::Songs/Guns n' Roses/Sweet child of mine.ad[]
 
-include::Songs/Motley Crue/Don't go away mad.ad[]
+include::Songs/Ария/Осколок льда.ad[]
 
 include::Songs/Bruno Mars/Grenade.ad[]
 
 include::Songs/Ария/Искушение.ad[]
 
 include::Songs/Whitesnake/Don't fade away.ad[]
+
+include::Songs/Кино/Рядом со мной.ad[]
 
 include::Songs/David Bowie/Starman.ad[]
 
@@ -46,12 +48,12 @@ include::Songs/Земфира/Трафик.ad[]
 
 include::Songs/Кино/Город.ad[]
 
-include::Songs/Кино/Рядом со мной.ad[]
-
 include::Songs/Ария/Что вы сделали с вашей мечтой.ad[]
 
 include::Songs/Машина Времени/Дорога в небо.ad[]
 
 include::Songs/The Calling/Wherever You Will Go.ad[]
+
+include::Songs/Синяя птица/Там где клен шумит.ad[]
 
 include::Songs/ДДТ/Это все.ad[]
