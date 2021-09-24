@@ -25,6 +25,6 @@ for item in filelist:
     tfile = open(item)
     for line in tfile.readlines():
         if line.startswith("=="):
-            line = line + " link:#top[^^] \n"
+            line.replace("\n", " link:#top[^^]\n")
         sys.stdout.write(line)
     print("\n")
