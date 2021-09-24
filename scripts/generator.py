@@ -4,6 +4,7 @@ import os, sys, time
 filelist = []
 folder = "Songs"
 
+print("[#top]")
 print("""= Good Songs to Play
 Alexander Vasin <alexander.v.vasin@gmail.com>""")
 print(time.strftime(":revdate: %B %d, %Y"))
@@ -22,7 +23,8 @@ for roots, dirs,files in os.walk(folder):
 filelist.sort()    
 for item in filelist:
     tfile = open(item)
-    sys.stdout.write("link:#[^^]")
+    print("link:#top[^^]")
+    print("\n")
     for lines in tfile:
         sys.stdout.write(lines)
     print("\n")
