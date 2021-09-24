@@ -22,6 +22,7 @@ for roots, dirs,files in os.walk(folder):
 filelist.sort()    
 for item in filelist:
     tfile = open(item)
+    sys.stdout.write("link:#[^^]")
     for lines in tfile:
         sys.stdout.write(lines)
     print("\n")
